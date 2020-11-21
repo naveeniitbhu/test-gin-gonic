@@ -1,2 +1,2 @@
-###TESTING GIN-GONIC
- - Building endpoints using gin-gonic
+### TESTING GIN-GONIC
+ - Creating endpoints using gin-gonic.
